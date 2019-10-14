@@ -1,5 +1,10 @@
-
 feature 1 wip
 feature 1 with bugs 
 feature 1 with 1 bug
 results in feature 1 with 1 bug
+feature 1 with 2 bugs feature 2 wip
+feature 1 with 1 bug
+fix feature 1 bug X 
+feature 1 with 1 bug
+feature 1 with 1 bug feature 2 wip
+feature 1 
