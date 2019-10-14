@@ -5,3 +5,4 @@ feature 1 with 1 bug
 fix feature 1 bug X 
 feature 1 with 1 bug
 feature 1 with 1 bug feature 2 wip
+feature 1
