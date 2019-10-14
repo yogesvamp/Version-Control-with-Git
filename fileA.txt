@@ -1,9 +1,6 @@
-
 feature 1 wip
 feature 1 with bugs 
-<<<<<<< HEAD
 feature 1 with 2 bugs feature 2 wip
-||||||| merged common ancestors
-=======
 feature 1 with 1 bug
->>>>>>> fix feature 1 bug X
+fix feature 1 bug X 
+feature 1 with 1 bug
